@@ -1,0 +1,2 @@
+the first key|the second key|the third key|and the cool data
+this file|would be processed|like this|./db2 3 test_db < this_file

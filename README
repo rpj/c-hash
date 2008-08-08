@@ -1,0 +1,1 @@
+A very simple, very un-tested, very written-long-ago hash table implementation in C. It's fast but it's buggy; good luck!
